@@ -1,1 +1,2 @@
-Hello from SEFlaunch
+Hello from SEFlaunch,
+and goodbye for this session
